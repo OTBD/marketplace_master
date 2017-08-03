@@ -1,0 +1,36 @@
+[15-Nov-2015 15:59:38 Europe/London] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dawsonde/public_html/market/functions/config.php on line 3
+[15-Nov-2015 15:59:38 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/dawsonde/public_html/market/functions/config.php on line 3
+[15-Nov-2015 16:01:44 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: fname in /home/dawsonde/public_html/market/functions/doregister.php on line 5
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: lname in /home/dawsonde/public_html/market/functions/doregister.php on line 6
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: email in /home/dawsonde/public_html/market/functions/doregister.php on line 7
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: password in /home/dawsonde/public_html/market/functions/doregister.php on line 8
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: cpassword in /home/dawsonde/public_html/market/functions/doregister.php on line 9
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: username in /home/dawsonde/public_html/market/functions/doregister.php on line 10
+[15-Nov-2015 16:03:06 Europe/London] PHP Notice:  Undefined index: country in /home/dawsonde/public_html/market/functions/doregister.php on line 11
+[15-Nov-2015 16:03:06 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:03:21 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:06:37 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: fname in /home/dawsonde/public_html/market/functions/doregister.php on line 5
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: lname in /home/dawsonde/public_html/market/functions/doregister.php on line 6
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: email in /home/dawsonde/public_html/market/functions/doregister.php on line 7
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: password in /home/dawsonde/public_html/market/functions/doregister.php on line 8
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: cpassword in /home/dawsonde/public_html/market/functions/doregister.php on line 9
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: username in /home/dawsonde/public_html/market/functions/doregister.php on line 10
+[15-Nov-2015 16:07:37 Europe/London] PHP Notice:  Undefined index: country in /home/dawsonde/public_html/market/functions/doregister.php on line 11
+[15-Nov-2015 16:07:37 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:07:52 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: fname in /home/dawsonde/public_html/market/functions/doregister.php on line 5
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: lname in /home/dawsonde/public_html/market/functions/doregister.php on line 6
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: email in /home/dawsonde/public_html/market/functions/doregister.php on line 7
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: password in /home/dawsonde/public_html/market/functions/doregister.php on line 8
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: cpassword in /home/dawsonde/public_html/market/functions/doregister.php on line 9
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: username in /home/dawsonde/public_html/market/functions/doregister.php on line 10
+[15-Nov-2015 16:08:42 Europe/London] PHP Notice:  Undefined index: country in /home/dawsonde/public_html/market/functions/doregister.php on line 11
+[15-Nov-2015 16:08:42 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:08:58 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[15-Nov-2015 16:11:24 Europe/London] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dawsonde/public_html/market/functions/config.php on line 3
+[15-Nov-2015 16:11:24 Europe/London] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/dawsonde/public_html/market/functions/config.php on line 3
+[15-Nov-2015 16:11:59 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[25-Nov-2015 06:33:35 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
+[25-Nov-2015 16:49:49 Europe/London] PHP Fatal error:  Call to undefined function password_hash() in /home/dawsonde/public_html/market/functions/doregister.php on line 23
